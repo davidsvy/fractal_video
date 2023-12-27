@@ -1,0 +1,14 @@
+decord
+gdown>=4.7.1
+numba
+numpy
+opencv_python
+pandas
+Pillow
+pytorchvideo
+scipy
+termcolor
+timm
+torch
+torchvision
+yacs
